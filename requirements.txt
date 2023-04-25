@@ -1,1 +1,4 @@
 dropbox
+refinitiv-data
+refinitiv-dataplatform
+eikon
