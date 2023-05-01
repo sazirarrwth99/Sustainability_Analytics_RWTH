@@ -2,3 +2,4 @@ dropbox
 refinitiv-data
 refinitiv-dataplatform
 eikon
+pandas == 1.5.3
