@@ -3,3 +3,12 @@ refinitiv-data
 refinitiv-dataplatform
 eikon
 pandas == 1.5.3
+os
+numpy
+tqdm
+geopandas
+plotly
+scikit-learn
+matplotlib
+seaborn
+scipy
